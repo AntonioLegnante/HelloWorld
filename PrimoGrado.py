@@ -7,4 +7,4 @@ if a==0 and b==0 :
 elif a==0 :
     print ("l'equazione e' impossibile,nessuna soluzione")
 else :
-    print ("l'incognita e' ", b/a)
+    print ("l'incognita e' ", -b/a)
